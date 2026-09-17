@@ -40,8 +40,9 @@ All employee records are stored in a file named: data\employee.csv
 All login information are stored in: data\logins.csv
 All attendance records are stored in: data\attendance.csv
 
-Run the application:
+Run the application or Run MotorPHGUI.java
 Right-click Project → Run
 Enter 'admin' as username
 Enter 'user1' as password
+
 
